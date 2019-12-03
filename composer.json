@@ -2,7 +2,6 @@
     "name":"zackad/web-skeleton",
     "type": "project",
     "license": "MIT",
-    "minimum-stability": "dev",
     "require": {
         "php": "^7.2.5",
         "ext-ctype": "*",
